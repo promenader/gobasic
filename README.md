@@ -1,1 +1,1 @@
-# leetcode_go
+# go learning
